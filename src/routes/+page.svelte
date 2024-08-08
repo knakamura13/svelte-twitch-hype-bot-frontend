@@ -1,13 +1,14 @@
 <script lang="ts">
+	import HypeChart from '$lib/components/HypeChart.svelte';
 </script>
 
 <svelte:head>
-	<title>Twitch Hype</title>
+	<title>NL +2 Stats</title>
 </svelte:head>
 
 <section class="page" id="home">
-	<section class="intro">
-		<h1 class="header h1">Twitch Hype Bot</h1>
+	<section class="hype-chart">
+		<HypeChart />
 	</section>
 </section>
 

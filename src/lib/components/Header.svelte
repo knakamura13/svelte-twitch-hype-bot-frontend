@@ -20,7 +20,7 @@
 		{/if}
 
 		<a href="/" class="link link--zoomies">
-			<strong class="text-xl uppercase">Twitch Hype Bot</strong>
+			<strong class="text-xl uppercase">NL +2 Stats</strong>
 		</a>
 	</svelte:fragment>
 
